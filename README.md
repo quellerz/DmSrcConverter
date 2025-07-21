@@ -1,4 +1,4 @@
-# DmSrcConventer
+# DmSrcConverter
 ![logo](logo.png)
 Dmitry's Source Engine unit converter
 
